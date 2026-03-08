@@ -1,0 +1,17 @@
+“From the doorway came the sharp clang of a little bell; and through the parted blinds I could see a woman descending the steps, her skirts swaying under the street‑lamp’s neutral radiance.”
+
+Task:
+
+Using OSINT:
+
+Identify the real pub in London that matches:
+
+A small bell above the door
+
+Parted blinds visible from the entrance
+
+Victorian‑era decor and ambience
+
+Find its exact address.
+
+The format should be 5iege{Address}
